@@ -6,3 +6,7 @@ body {
     color: navy;
     margin-left: 20px;
     } 
+    p{
+
+        border: solid 2px black;
+    }
